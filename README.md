@@ -9,7 +9,7 @@ The following are it's members:
 2.  Pascual, Alexander
 3. Pavillar, Jeffrey
 4. Perez, Jose Claro Miguel
-5. 6Picar, Ray-Anne Janoah
+5. Picar, Ray-Anne Janoah
 6. Pil, April Rose
 7. Pineda, Maria Elisa
 8. Ponciano, Niezl Marian
