@@ -1,5 +1,3 @@
-# Deepfake as a Disruptive Technology
-## By MMS 142 Group H
 
 | [What is Disruptive Technology?]() | 
 
