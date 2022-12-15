@@ -1,7 +1,11 @@
 # Deepfake as a Disruptive Technology
 ## By MMS 142 Group H
 
-### MMS142 Group H's repository for the Group Activity: Disruptive Technologies.
+[About]()
+
+### About
+
+MMS142 Group H's repository for the Group Activity: Disruptive Technologies.
 The topic chosen is Deepfake or technology that can alter visages.
 
 The following are it's members:
