@@ -11,7 +11,7 @@
 
 | [About Group H](#about) | 
 
-<img src="tom_cruise_deepfake_before_after.jpg" style="float:right;width:700px;height:400px;">
+<img src="tom_cruise_deepfake_before_after.jpg" style="float:right;">
 Videos of "fake" Tom Cruise have been getting viral throughout Tiktok, and the account has been gaining traction with  3.7 million followers and 14.4 million likes. What's special about these videos is that Tom Cruise isn't actually the person in front of the camera. His face is just plastered on the head of another man to fit with the movements and make it look convincing as if he's the one doing the actions. This technology, also know as "deepfake" has been on the rise recently, bringing both convenience and chaos in the Internet. In this repository, we are going to discuss how deepfake became a disruptive technology, including the innovations it has disrupted and will disrupt in the future.
 
 ### About
