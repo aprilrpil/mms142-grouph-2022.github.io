@@ -1,5 +1,6 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Deepfake as a Disruptive Technology
+description: A web report by Group H of MMS 142 A.Y. 2022-2023 1st Trimester.
 show_downloads: true
 google_analytics:
+markdown: kramdown
 theme: jekyll-theme-cayman
