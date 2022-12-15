@@ -7,7 +7,11 @@
 
 | [What are Deepfakes?]() |
 
-| [What are Deepfakes?]() |
+| [What Market/Industries are Currently Disrupted by Deepfakes?]() |
+
+| [How do Deepfakes Disrupt These Markets/industries?]() |
+
+| [DeepFakes in the Philippine Context]() |
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu lectus lorem. Suspendisse pretium erat et faucibus laoreet. Suspendisse sed sapien id massa venenatis interdum non at felis. Integer libero massa, luctus non felis at, dignissim eleifend metus. Donec porta, tortor a pulvinar eleifend, purus est congue mi, vel efficitur augue sapien nec nulla. Etiam sit amet dolor in nibh dapibus volutpat eget sed lacus. Vestibulum tincidunt vestibulum lectus, in aliquam nibh varius in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse vel orci justo. Vestibulum eget pellentesque lorem. Nam sed lobortis diam. Morbi tempor libero sapien, eget euismod libero fermentum eu.
 
