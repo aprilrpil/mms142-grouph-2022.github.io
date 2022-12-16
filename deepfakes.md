@@ -1,3 +1,8 @@
+---
+layout: default
+title: What are Deepfakes
+---
+
 What are deepfakes?
 
 When deepfakes become widely used, it could allow non-celebrity actors to be hired into a role, resulting in unemployment or a change in how the entertainment industry selects their talent for productions. (Lalla et al., 2022) 
