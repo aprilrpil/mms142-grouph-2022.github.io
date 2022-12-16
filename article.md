@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: How Deepfake Technology Has Been Used So Far
 ---
 
