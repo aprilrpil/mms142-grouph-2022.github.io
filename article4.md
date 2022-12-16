@@ -57,12 +57,3 @@ Christensen, C. M. (n.d.). Disruptive Innovation. In The Encyclopedia of Human-C
 Sandusky, M. (2021, May 4). The Best DeepFake Software – How To Make A Deepfake. Peer Through Media. Retrieved December 16, 2022, from [https://peerthroughmedia.com/deepfake-software-testing/.](https://peerthroughmedia.com/deepfake-software-testing/.)
 
 Somers, M. (2020, July 21). Deepfakes, explained. MIT Management Sloan School. [https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.)
-
-
-
-
-
-
-
-
-
