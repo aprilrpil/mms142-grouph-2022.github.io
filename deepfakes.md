@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: What are Deepfakes
 ---
 
@@ -18,10 +18,10 @@ Subtitles are captions that translates the video dialogue into another language 
 
 References
 
-Lalla, V., Mitrani, A., & Harned, Z. (2022, June). Artificial Intelligence: Deepfakes in the Entertainment Industry. https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html
+Lalla, V., Mitrani, A., & Harned, Z. (2022, June). Artificial Intelligence: Deepfakes in the Entertainment Industry. [https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html](https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html)
 
-Panyatham, P. (2022, August 16). Deepfake Technology in the Entertainment industry: Potential Limitations and Protections. AMT Lab @ CMU. https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections
+Panyatham, P. (2022, August 16). Deepfake Technology in the Entertainment industry: Potential Limitations and Protections. AMT Lab @ CMU. [https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections](https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections)
 
-Vincent, J. (2021, May 18). Deepfake dubs could help translate film and TV without losing an actor’s original performance. The Verge. https://www.theverge.com/2021/5/18/22430340/deepfake-dubs-dubbing-film-tv-flawless-startup
+Vincent, J. (2021, May 18). Deepfake dubs could help translate film and TV without losing an actor’s original performance. The Verge. [https://www.theverge.com/2021/5/18/22430340/deepfake-dubs-dubbing-film-tv-flawless-startup](https://www.theverge.com/2021/5/18/22430340/deepfake-dubs-dubbing-film-tv-flawless-startup)
 
 Usukhbayar, B. (2020). Deepfake Videos: The Future of Entertainment. 10.13140/RG.2.2.28924.62085. 
