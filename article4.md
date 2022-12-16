@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: How Do Deep Fakes Work?
 ---
 
@@ -46,17 +46,17 @@ Nevertheless, the growing trend of deepfake usage continues, which means that de
 
 ### References
 
-Brandon, J. (2018, February 20). Terrifying high-tech porn: Creepy 'deepfake' videos are on the rise. Fox News. Retrieved December 15, 2022, from https://www.foxnews.com/tech/terrifying-high-tech-porn-creepy-deepfake-videos-are-on-the-rise
+Brandon, J. (2018, February 20). Terrifying high-tech porn: Creepy 'deepfake' videos are on the rise. Fox News. Retrieved December 15, 2022, from [https://www.foxnews.com/tech/terrifying-high-tech-porn-creepy-deepfake-videos-are-on-the-rise](https://www.foxnews.com/tech/terrifying-high-tech-porn-creepy-deepfake-videos-are-on-the-rise)
 
-Batir, S. (2021,) What is Deepfake? How Deepfakes Work? Deepfakes Explained 2022. YouTube. Retrieved December 15, 2022, from https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir.
+Batir, S. (2021,) What is Deepfake? How Deepfakes Work? Deepfakes Explained 2022. YouTube. Retrieved December 15, 2022, from [https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir](https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir)
 
-Christensen, C. M. (n.d.). Disruptive Innovation. In The Encyclopedia of Human-Computer Interaction. Interaction Design Foundation. Retrieved December 15, 2022, from https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation.</a>
+Christensen, C. M. (n.d.). Disruptive Innovation. In The Encyclopedia of Human-Computer Interaction. Interaction Design Foundation. Retrieved December 15, 2022, from [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation.</a>](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation.</a>)
 
-“The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved December 15, 2022, from https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos.
+“The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved December 15, 2022, from [https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos](https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos)
 
-Sandusky, M. (2021, May 4). The Best DeepFake Software – How To Make A Deepfake. Peer Through Media. Retrieved December 16, 2022, from https://peerthroughmedia.com/deepfake-software-testing/.
+Sandusky, M. (2021, May 4). The Best DeepFake Software – How To Make A Deepfake. Peer Through Media. Retrieved December 16, 2022, from [https://peerthroughmedia.com/deepfake-software-testing/.](https://peerthroughmedia.com/deepfake-software-testing/.)
 
-Somers, M. (2020, July 21). Deepfakes, explained. MIT Management Sloan School. https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.
+Somers, M. (2020, July 21). Deepfakes, explained. MIT Management Sloan School. [https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.)
 
 
 
