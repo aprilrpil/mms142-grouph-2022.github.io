@@ -1,8 +1,10 @@
 
 | [What is Disruptive Technology?](what_is_disruptive_technology.md) | 
 |:---:|
-| [What are Deepfakes?]() |
-| [What Market/Industries are Currently Disrupted by Deepfakes and How?]() |
+| [What are Deepfakes?](deepfakes.md) |
+| [How Do Deepfakes Work?](article4.md) |
+| [What Market/Industries are Currently Disrupted by Deepfakes and How?](article1.md) |
+| [How Deepfake Technology Has Been Used So far](article.md) |
 | [DeepFakes in the Philippine Context]() |
 | [About Group H](#about-group-h) | 
 
