@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What Common Daily Technology Will Deepfake Replace?
+title: How Deepfake Technology Has Been Used So Far
 ---
 
 According to Virtual Humans (n.d.), deepfake is “a branch of synthetic media in which a person in an existing image or video is replaced with someone else’s likeness using artificial neural networks.” In Ramussen’s article (2021), what sets deepfake apart from other “virtual beings'' (specifically vtubers) and pure Artificial Intelligence (A.I.) is that both the media replaced and the likeness used to replace with already exist and are not generated from of nothing. Deepfake is unlike Alice, the “NFT powered by artificial intelligence and deep machine learning algorithms that make her an iNFT or intelligent NFT,” and it is not like Kizuna AI, a virtual character that moves at the same time as the human behind the face, using motion capture technology, allowing real-time interaction (Ramussen, 2021).
