@@ -1,3 +1,8 @@
+---
+layout: default
+title: What Common Daily Technology Will Deepfake Replace?
+---
+
 According to Virtual Humans (n.d.), deepfake is “a branch of synthetic media in which a person in an existing image or video is replaced with someone else’s likeness using artificial neural networks.” In Ramussen’s article (2021), what sets deepfake apart from other “virtual beings'' (specifically vtubers) and pure Artificial Intelligence (A.I.) is that both the media replaced and the likeness used to replace with already exist and are not generated from of nothing. Deepfake is unlike Alice, the “NFT powered by artificial intelligence and deep machine learning algorithms that make her an iNFT or intelligent NFT,” and it is not like Kizuna AI, a virtual character that moves at the same time as the human behind the face, using motion capture technology, allowing real-time interaction (Ramussen, 2021).
 
 However, deepfakes are more known as visual effects technology used in movies to de-age actors and bring dead people back to life (Miller, 2022). This technology can offer cheaper options when it comes to production. As deepfakes work through the power of machine learning, more usage of deepfakes will make it easier to detect faces and edit them. In an article by Panyatham (2022), the use of deepfakes in the production process of entertainment is predicted. In this sense, it could easily outdo technologies such as CGI. Deepfakes could offer more convenience not only in video but also audio since it relies on A.I. This could easily disrupt the industry of manual editing through software since everything would be more accessible as long as A.I. learns repeatedly.
