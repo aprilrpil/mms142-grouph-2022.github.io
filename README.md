@@ -1,5 +1,5 @@
 
-| [What is Disruptive Technology?](What is Disruptive Technology?.md) | 
+| [What is Disruptive Technology?](what_is_disruptive_technology.md) | 
 
 | [What are Deepfakes?]() |
 
