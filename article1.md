@@ -1,3 +1,8 @@
+---
+layout: default
+title: How Deepfake Affects Society
+---
+
 What market/industries are currently disrupted by deepfakes?
 
 Gaming industry and Financial market
