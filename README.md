@@ -3,7 +3,7 @@
 
 | [What are Deepfakes?]() |
 
-| [What Market/Industries are Currently Disrupted by Deepfakes nad How?]() |
+| [What Market/Industries are Currently Disrupted by Deepfakes and How?]() |
 
 | [DeepFakes in the Philippine Context]() |
 
