@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Deepfake Technology Has Been Used So Far
-description: By Pamela Mae Parcon
+description: By Pamela Mae Parcon & April Rose Pil
 ---
 
 ## How Deepfake Technology Has Been Used So Far
