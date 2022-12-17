@@ -23,6 +23,6 @@ Another nuanced application challenges how we perceive and define death through 
 
 Dalí lives. Goodby Silverstein & Partners. (2019). Retrieved from [https://goodbysilverstein.com/work/clients/dali-museum/dali-lives-2](https://goodbysilverstein.com/work/clients/dali-museum/dali-lives-2)
 
-Köbis N., Doležalová B., Soraperra I. (2021). Fooled twice–people cannot detect deepfakes but think they can. iScience, 24 (11), 103364. [https://doi.org/10.1016/j.isci.2021.103364](https://doi.org/10.1016/j.isci.2021.103364)
+Köbis N., Doležalová B., Soraperra I. (2021). _Fooled twice–people cannot detect deepfakes but think they can_. iScience, 24 (11), 103364. [https://doi.org/10.1016/j.isci.2021.103364](https://doi.org/10.1016/j.isci.2021.103364)
  
-Shroff, R. (2022). Are deepfakes good for business? Medium. Retrieved from [https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e](https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e)
+Shroff, R. (2022). _Are deepfakes good for business?_ Medium. Retrieved from [https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e](https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e)
