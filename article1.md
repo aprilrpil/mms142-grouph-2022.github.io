@@ -30,6 +30,7 @@ __Machine Learning__
 Using deepfake for creating malicious content can give users the wrong idea on how to use these innovations (Buzz Blog Box, 2020). It ultimately tarnishes the field of AI and what it can offer from a consumer's perspective.
 
 __Entertainment Industry__
+
 Deepfake has been used to swap the faces of celebrities into obscene images or videos online. This could negatively impact their reputation and brand as a whole (Buzz Blog Box, 2020).
 
 
