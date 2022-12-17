@@ -32,14 +32,14 @@ description: By Jose Claro Miguel Perez & Bea Phoemela Recto
 
 ##### References:
 
-Adee, S. (2020). What are deepfakes and how are they created? deepfake technologies: what they are, what they do, and how they’re made. IEEE Spectrum. [https://spectrum.ieee.org/what-is-deepfake](https://spectrum.ieee.org/what-is-deepfake)
+Adee, S. (2020). _What are deepfakes and how are they created? deepfake technologies: what they are, what they do, and how they’re made_. IEEE Spectrum. [https://spectrum.ieee.org/what-is-deepfake](https://spectrum.ieee.org/what-is-deepfake)
          
-Allyn, B. (2022). Deepfake video of Zelenskyy could be 'tip of the iceberg' in info war, experts warn. National Public Radio. [https://www.npr.org/2022/03/16/1087062648/deepfake-video-zelenskyy-experts-war-manipulation-ukraine-russia](https://www.npr.org/2022/03/16/1087062648/deepfake-video-zelenskyy-experts-war-manipulation-ukraine-russia)
+Allyn, B. (2022). _Deepfake video of Zelenskyy could be 'tip of the iceberg' in info war, experts warn_. National Public Radio. [https://www.npr.org/2022/03/16/1087062648/deepfake-video-zelenskyy-experts-war-manipulation-ukraine-russia](https://www.npr.org/2022/03/16/1087062648/deepfake-video-zelenskyy-experts-war-manipulation-ukraine-russia)
 
-Borak, M. (2020). Deepfakes have the potential to disrupt financial markets, not just fake your bank ID, experts say. The Star. [https://www.thestar.com.my/tech/tech-news/2020/11/17/deepfakes-have-the-potential-to-disrupt-financial-markets-not-just-fake-your-bank-id-experts-say](https://www.thestar.com.my/tech/tech-news/2020/11/17/deepfakes-have-the-potential-to-disrupt-financial-markets-not-just-fake-your-bank-id-experts-say)
+Borak, M. (2020). _Deepfakes have the potential to disrupt financial markets, not just fake your bank ID, experts say._ The Star. [https://www.thestar.com.my/tech/tech-news/2020/11/17/deepfakes-have-the-potential-to-disrupt-financial-markets-not-just-fake-your-bank-id-experts-say](https://www.thestar.com.my/tech/tech-news/2020/11/17/deepfakes-have-the-potential-to-disrupt-financial-markets-not-just-fake-your-bank-id-experts-say)
 
-Philstar Life (2020). Sex video used deepfake technology to make woman look like Maine Mendoza. [https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza](https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza)
+Philstar Life (2020). _Sex video used deepfake technology to make woman look like Maine Mendoza_. [https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza](https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza)
 
-McKelvey, J. (2020). Good entrepreneurs don't set out to disrupt. Harvard Business Review. [https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt](https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt)
+McKelvey, J. (2020). _Good entrepreneurs don't set out to disrupt_. Harvard Business Review. [https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt](https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt)
 
-Zaman, R. (2022). Netflix disruptive innovation – renting to streaming. The Waves. [https://www.the-waves.org/2022/03/15/netflix-disruptive-innovation-renting-to-streaming/](https://www.the-waves.org/2022/03/15/netflix-disruptive-innovation-renting-to-streaming/)
+Zaman, R. (2022). _Netflix disruptive innovation – renting to streaming_. The Waves. [https://www.the-waves.org/2022/03/15/netflix-disruptive-innovation-renting-to-streaming/](https://www.the-waves.org/2022/03/15/netflix-disruptive-innovation-renting-to-streaming/)
