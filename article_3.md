@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: What is Disruptive Technology
-description: By Jose Claro Miguel Perez
+description: By Jose Claro Miguel Perez & Bea Phoemela Recto
 ---
 
 ## DISRUPTIVE TECHNOLOGY
