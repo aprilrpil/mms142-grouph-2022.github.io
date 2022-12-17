@@ -24,9 +24,9 @@ which considers for a congressional investigation into deepfakes. In a discussio
 
 #### References:
 
-Disini & Disini Law Office (2020). Issues in Deepfake Legislation and Regulation. Retrieved from [https://elegal.ph/issues-in-deepfake-legislation-and-regulation/](https://elegal.ph/issues-in-deepfake-legislation-and-regulation/)
+Disini & Disini Law Office (2020). _Issues in Deepfake Legislation and Regulation_. Retrieved from [https://elegal.ph/issues-in-deepfake-legislation-and-regulation/](https://elegal.ph/issues-in-deepfake-legislation-and-regulation/)
 
-GMA Entertainment. (2020, December 24). Maine Mendoza's management asks not to share the malicious video being linked to her | GMA Entertainment. [https://www.gmanetwork.com/entertainment/showbiznews/news/72716/maine-mendozas-management-asks-not-to-share-the-malicious-video-being-linked-to-her/story](https://www.gmanetwork.com/entertainment/showbiznews/news/72716/maine-mendozas-management-asks-not-to-share-the-malicious-video-being-linked-to-her/story)
+GMA Entertainment. (2020, December 24). _Maine Mendoza's management asks not to share the malicious video being linked to her_. [https://www.gmanetwork.com/entertainment/showbiznews/news/72716/maine-mendozas-management-asks-not-to-share-the-malicious-video-being-linked-to-her/story](https://www.gmanetwork.com/entertainment/showbiznews/news/72716/maine-mendozas-management-asks-not-to-share-the-malicious-video-being-linked-to-her/story)
 
-Unit, C. S. (n.d.). ACG-CYBER SECURITY BULLETIN NR 189: Understanding of Deepfake Threat Technology. [https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology](https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology)
+Unit, C. S. (n.d.). _ACG-CYBER SECURITY BULLETIN NR 189: Understanding of Deepfake Threat Technology_. [https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology](https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology)
 
