@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Focuses of the Web Report
-description: A comprehensive compilation of the essays written by MMS 142's Group H (2022).
+title: 3 Summaries of the Web Report
+description: A comprehensive summary of MMS 142's Group H (2022) web report, synthesizing the articles written by the contributors.
 ---
 
-## 3 Focuses of the Web Report
+## 3 Summaries of the Web Report
 
 ### 1ST: Disruptive Technology
 
