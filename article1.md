@@ -60,4 +60,6 @@ ING Wholesale Banking. (n.d.). Deepfake: Beware and know the risks. Deepfake: be
 
 Kurup, N. (2022, October 18). Clari5. Retrieved from [https://www.clari5.com/deepfake_frauds_will_banks_be_the_next_stop/](https://www.clari5.com/deepfake_frauds_will_banks_be_the_next_stop/)
 
-Lalla, V., Mitrani, A., & Harned, Z. (2022, June). Artificial Intelligence: Deepfakes in the entertainment industry. WIPO. Retrieved from [https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html ](https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html )
+Lalla, V., Mitrani, A., & Harned, Z. (2022, June). Artificial Intelligence: Deepfakes in the entertainment industry. WIPO. Retrieved from [https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html](https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html)
+
+“The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved December 15, 2022, from [https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos](https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos)
