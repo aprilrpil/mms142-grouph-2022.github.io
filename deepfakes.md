@@ -11,7 +11,7 @@ Deepfake is an artificial intelligence-based method that is used to create reali
 
 ### How do deepfakes disrupt the entertainment industry? 
 
--Subtitles- 
+__Subtitles__ 
 
 Subtitles are captions that translates the video dialogue into another language for the viewer to understand. However, deepfake can be an effective alternative to subtitles because this type of AI can copy lip movements that will match the translated dialogue and superimpose it to an actor’s head. According to Vincent (2021), using deepfake dubs allows companies to save a lot of time and money because they are “cheap and quick to create” while retaining the performance and style of the acting. Although this can benefit the viewers from different parts of the world,  Usukhbayar (2020) states that subtitles are also impossible to completely eliminate because they will always be required for those who have hearing impairments.
 
