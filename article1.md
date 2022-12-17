@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Deepfake Affects the Society
+title: Disrupted Markets
 description: By Bea Phoemela Recto
 ---
 
