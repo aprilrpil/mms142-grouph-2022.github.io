@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Summaries of the Web Report
-description: A comprehensive summary of MMS 142's Group H (2022) web report, synthesizing the articles written by the contributors.
+description: A comprehensive summary of MMS 142's Group H (2022) web report, synthesizing the articles written by the contributors. Compiled by Frances Adelaide Rabara.
 ---
 
 ## 3 Summaries of the Web Report
