@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What are Deepfakes
+description: By Niezl Marian Ponciano
 ---
 
 ### What are deepfakes?
