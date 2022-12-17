@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Disruptive Technology?
+description: By Pamela Mae Parcon
 ---
 
 ## What is Disruptive Technology?
