@@ -1,6 +1,6 @@
 ---
 layout: default
-title: site.title
+title: Deepfake as a Disruptive Technology
 ---
 
 ## Table of Contents
