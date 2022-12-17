@@ -1,13 +1,13 @@
-## Table of Contents
+### Table of Contents
 
-### I. Disruptive Technology
+#### I. Disruptive Technology
 
 Defining its description and purpose, how it works, and the advantages and disadvantages found in disruptive technology.
 
 1. [What is Disruptive Technology?](what_is_disruptive_technology.md)
 2. [Disruptive Technology and Deepfakes](article_3.md)
 
-### II. Deepfake and How our chosen topic disrupts the status quo in the market
+#### II. Deepfake and How our chosen topic disrupts the status quo in the market
 
 1. [What are Deepfakes?](deepfakes.md)
 2. [How Do Deepfakes Work?](article4.md)
@@ -15,11 +15,11 @@ Defining its description and purpose, how it works, and the advantages and disad
 4. [Disrupted Markets](article1.md)
 5. [Deepfake Detection](deepfake_detection.md)
 
-### III. Deepfake in the Philippine Context
+#### III. Deepfake in the Philippine Context
 
 - [DeepFakes in the Philippine Context](Philippine_context.md)
 
-### IV. Summary
+#### IV. Summary
 
 - [3 Summaries of the Web Report](Compile_Contributions.md)
 
