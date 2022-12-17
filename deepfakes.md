@@ -3,13 +3,13 @@ layout: post
 title: What are Deepfakes
 ---
 
-What are deepfakes?
+### What are deepfakes?
 
 When deepfakes become widely used, it could allow non-celebrity actors to be hired into a role, resulting in unemployment or a change in how the entertainment industry selects their talent for productions. (Lalla et al., 2022) 
 Deepfake is an artificial intelligence-based method that is used to create realistic-looking human features or sounds that are superimposed on another individual’s body to produce photos and videos. According to Panyatham (2020), in September 2019, there are over 14 thousand deepfake videos that circulated online and it is commonly used in film production such as multiple language dubbing. It can be possible that deepfakes can disrupt how we view the entertainment industry. 
 
 
-How do deepfakes disrupt the entertainment industry? 
+### How do deepfakes disrupt the entertainment industry? 
 
 -Subtitles- 
 
