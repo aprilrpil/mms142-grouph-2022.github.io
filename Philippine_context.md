@@ -8,4 +8,3 @@ which considers for a congressional investigation into deepfakes. In a discussio
 References:
 Unit, C. S. (n.d.). ACG-CYBER SECURITY BULLETIN NR 189: Understanding of Deepfake Threat Technology. https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology
 Disini & Disini Law Office (2020). Issues in Deepfake Legislation and Regulation. Retrieved from https://elegal.ph/issues-in-deepfake-legislation-and-regulation/
-
