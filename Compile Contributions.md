@@ -57,25 +57,38 @@ Market and Industries currently Disrupted by Deepfakes
 
 Financial market
 Deep Fakes are now being used by criminals for purposes including fraud, blackmail, and other unethical financial schemes. It is possible for criminals to distribute a face-swap video that falsely depicts a CEO making damaging private comments. This would result in a decrease in the stock price of the CEO's company, which would allow the criminals to profit from short sales (Bateman, 2020).
-Fraudsters can, for instance, pose as your company's CEO or an employee of the bank in order to obtain personal information, force you to transfer money, or open a bank account in order to launder money (ING Wholesale Banking, n.d.).
-Fraudsters also have the ability to use deepfakes to file insurance claims or other claims on behalf of deceased individuals. Claims can be successfully made on pensions, life insurance, and benefits for a deceased person for many years after the person's death. Deep Fakes are utilized in this scenario in order to successfully trick the bank into believing that one of their customers is still alive (Kurup, 2022).
+
+Fraudsters can, for instance, pose as your company's CEO or an employee of the bank in order to obtain personal information, force you to transfer money, or open a bank account in order to launder money (ING Wholesale Banking, n.d.). Fraudsters also have the ability to use deepfakes to file insurance claims or other claims on behalf of deceased individuals. Claims can be successfully made on pensions, life insurance, and benefits for a deceased person for many years after the person's death. Deep Fakes are utilized in this scenario in order to successfully trick the bank into believing that one of their customers is still alive (Kurup, 2022).
+
 According to Borak (2020), as the use of facial recognition technology grows, people in China are becoming increasingly concerned about the possibility of deep fakes and biometric data leaks.
+
 Brewster (2021) quotes Jake Moore, a former police officer and current cybersecurity expert at security firm ESET, who says that while audio and visual deep fakes are fascinating examples of 21st century technological advancement, they also pose a significant threat to people's personal information, money, and commercial enterprises.
+
 Digital Marketing
 Deepfake technology provides an opportunity for smaller businesses to produce low-cost advertisements to promote their products and/or services. Marketers can easily repurpose their content for other clients. This essentially reduces expenses and eliminate the potential need to reshoot and recast actors and/actresses. Shroof (2019) stated that companies can make videos without the use of human actors or a film crew using synthetic video creation technologies. A semi-artificial or fully artificial videos make editing much more efficient as one has either more degree of control over the assets. Ending with much faster and less expensive content generation enables small businesses to expand their marketing and advertising reach. They can produce comparable amounts of content as their larger competitors.
+
+
 Gaming industry
 When impressive natural language generation models such as GPT3 are combined with gaming deepfakes, this will result in NPCs having the limitless ability to converse with your avatar using convincing synchronized face and mouth movements without the need to follow specific scripts. This will allow for a much more immersive gaming experience. Moreover, the so-called "voice skins'' are making it possible for LGBT+ players to alter their in-game voices, which has led to a more enjoyable gaming experience. (Lalla et al., 2022)
+
+
 Machine Learning
 Using deepfake for creating malicious content can give users the wrong idea on how to use these innovations (Buzz Blog Box, 2020). It ultimately tarnishes the field of AI and what it can offer from a consumer's perspective. Moreover, deepfakes could create a new population of malicious users- people with ill intentions of deceiving others.
+
 Government
-         A deepfake video of Ukrainian President declaring the nation’s soldiers to surrender and lay down their weapons was released by hackers who may be Russians spreading disinformation as warfare tactic (Alynn, 2022). Although Ukraine was quick to address this concern and people easily spotted some evidence that the video clip was deepfake and untrue, the advances in AI and technology may blur the line between reality and illusion, making deepfake a scarier weapon to create distrust among people and their leaders.
+A deepfake video of Ukrainian President declaring the nation’s soldiers to surrender and lay down their weapons was released by hackers who may be Russians spreading disinformation as warfare tactic (Alynn, 2022). Although Ukraine was quick to address this concern and people easily spotted some evidence that the video clip was deepfake and untrue, the advances in AI and technology may blur the line between reality and illusion, making deepfake a scarier weapon to create distrust among people and their leaders.
+
 Entertainment Industry 
 Deepfake has been used to swap the faces of celebrities into obscene images or videos online. This could negatively impact their reputation and brand as a whole (Buzz Blog Box, 2020). It has its positive uses as it is known for being utilized to complete the film “Fast and Furious 7” as Paul Walker died before they were able to finish shooting his scenes. 
+
 However, deepfake is also infamous for generating nonconsensual pornography. According to Adee (2020), 96% of deepfake pornography released on the internet targets celebrities, especially women. Indeed, Maine Mendoza fell victim to the unsolicited use of her facial recognition in a sex video that circulated online (Philstar Life, 2020). Although many believed that she did not partake in that pornography, this may cause unwanted and harmful issues to other actors, especially their rights, and security. 
+
 There are also subtitles, which are captions that translates the video dialogue into another language for the viewer to understand. However, deepfake can be an effective alternative to subtitles because this type of AI can copy lip movements that will match the translated dialogue and superimpose it to an actor’s head. According to Vincent (2021), using deepfake dubs allows companies to save a lot of time and money because they are “cheap and quick to create” while retaining the performance and style of the acting. Although this can benefit the viewers from different parts of the world. Usukhbayar (2020) states that subtitles are also impossible to completely eliminate because they will always be required for those who have hearing impairments.
+
 Furthermore, deepfake offers multiple language dubbing, which easily disrupts the industry of voice acting. Since deepfakes allow the placement of a person’s face to another, it could create a new era of actors who don’t want to show their faces and could perform through facial expressions and body movements. However, it’s also a threat to current actors since all that’s needed is their face to make a production with lower costs. The value and demand for their performance could be easily diminished since they have become more replaceable.
 
 Additionally, deepfakes are prominently used in pornography. While it does not disrupt a certain innovation, it poses a threat to the security of women as they are the most common target of deepfake porn. According to Sensity AI, a research company that has tracked online deepfake videos since December of 2018, 90-95% of deepfakes are nonconsensual porn. In this context, deepfakes can create a new population of users in the form of people who seek power through revenge porn (Hao, 2021).
+
 
 The current status of a deepfake software’s capacity is still below the finetuning capabilities that actual CGI artists fulfill when post-processing a production. There are obvious details on deepfake images that would point out its syntheticism as opposed to actual live footage such as overly defined details or unrealistically smooth skins, confusing lighting, flimsy superimposition of facial hair, and disproportionate mouth or lips to the rest of the face. Without a ‘cleaning process’ made by professionals, the experience of watching deepfake would be extremely obvious to those who know how to spot it (“The Biggest Trends in Deepfake…”, 2022). The same goes for voice deepfakes, where some inconsistencies can be heard. In its current form, it simply cannot outperform human skills.
 
@@ -87,13 +100,21 @@ References:
 Adee, S. (2020). What are deepfakes and how are they created? deepfake technologies: what they are, what they do, and how they’re made. IEEE Spectrum. https://spectrum.ieee.org/what-is-deepfake
 
 Bateman, J. (2020, August 10). Get ready for deepfakes to be used in financial scams. Carnegie Endowment for International Peace. Retrieved from https://carnegieendowment.org/2020/08/10/get-ready-for-deepfakes-to-be-used-in-financial-scams-pub-82469
+
 Borak, M. (2020, November 17). Deepfakes, widely used for fake nudes, could disrupt financial markets. South China Morning Post. Retrieved from https://www.scmp.com/tech/innovation/article/3109565/deepfakes-have-potential-disrupt-financial-markets-not-just-fake
+
 Brewster, T. (2022, November 9). Fraudsters cloned company director's voice in $35 million bank heist, police find. Forbes. Retrieved from https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=50c4a4bf7559
+
 Buzz Blog Box. (2020, February 1). How Deepfake Technology Impact the People in Our Society? Medium. https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c
+
 ING Wholesale Banking. (n.d.). Deepfake: Beware and know the risks. Deepfake: beware of the risk for financial services • ING. Retrieved from https://www.ingwb.com/en/service/corporate-fraud/deepfake-risks
+
 Kurup, N. (2022, October 18). Clari5. Retrieved from https://www.clari5.com/deepfake_frauds_will_banks_be_the_next_stop/
+
 Lalla, V., Mitrani, A., & Harned, Z. (2022, June). Artificial Intelligence: Deepfakes in the entertainment industry. WIPO. Retrieved from https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html 
+
 Philstar Life (2020). Sex video used deepfake technology to make woman look like Maine Mendoza. https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza
+
 Shroff, R. (2022). Are deepfakes good for business? Medium. Retrieved from https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e
 
 
