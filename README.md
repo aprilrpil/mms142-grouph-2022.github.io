@@ -52,3 +52,4 @@ The following are it's members:
 13. Recto, Bea Phoemela
 14. Reyes, Sasha Gabriel
 
+_Theme used: [Cayman's theme](https://pages-themes.github.io/cayman/). Theme's github: https://github.com/pages-themes/cayman_
