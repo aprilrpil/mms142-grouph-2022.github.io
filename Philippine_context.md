@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Philippine Context
+title: Deepfakes in the Philippine Context
 description: By Jeffrey Pavillar
 ---
 
-## PHILIPPINE CONTEXT
+## Deepfakes in the Philippine Context
 
 What market/industries are currently disrupted by deepfakes? Answer: _Media and entertainment industry_.
 
