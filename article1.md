@@ -1,15 +1,17 @@
 ---
 layout: post
-title: How Deepfake Affects Society
+title: How Deepfake Affects the Society
+description: By Bea Phoemela Recto
 ---
 
-What market/industries are currently disrupted by deepfakes?
+**What market/industries are currently disrupted by deepfakes?**
 
 _Gaming industry and Financial market_
 
-How do deepfakes disrupt these markets/industries?
-
-__Financial market__
+**How do deepfakes disrupt these markets/industries?**
+  
+  
+### Financial market
 
 Deep Fakes are now being used by criminals for purposes including fraud, blackmail, and other unethical financial schemes. It is possible for criminals to distribute a face-swap video that falsely depicts a CEO making damaging private comments. This would result in a decrease in the stock price of the CEO's company, which would allow the criminals to profit from short sales (Bateman, 2020).
 
@@ -21,21 +23,21 @@ According to Borak (2020), as the use of facial recognition technology grows, pe
 
 Brewster (2021) quotes Jake Moore, a former police officer and current cybersecurity expert at security firm ESET, who says that while audio and visual deep fakes are fascinating examples of 21st century technological advancement, they also pose a significant threat to people's personal information, money, and commercial enterprises.
 
-__Gaming industry__
+### Gaming industry
 
 When impressive natural language generation models such as GPT3 are combined with gaming deepfakes, this will result in NPCs having the limitless ability to converse with your avatar using convincing synchronized face and mouth movements without the need to follow specific scripts. This will allow for a much more immersive gaming experience. Moreover, the so-called "voice skins'' are making it possible for LGBT+ players to alter their in-game voices, which has led to a more enjoyable gaming experience. (Lalla et al., 2022)
 
-__Machine Learning__
+### Machine Learning
 
 Using deepfake for creating malicious content can give users the wrong idea on how to use these innovations (Buzz Blog Box, 2020). It ultimately tarnishes the field of AI and what it can offer from a consumer's perspective.
 
-__Entertainment Industry__
+### Entertainment Industry
 
 Deepfake has been used to swap the faces of celebrities into obscene images or videos online. This could negatively impact their reputation and brand as a whole (Buzz Blog Box, 2020).
 
 
 
-References: 
+#### References: 
 
 Bateman, J. (2020, August 10). Get ready for deepfakes to be used in financial scams. Carnegie Endowment for International Peace. Retrieved from [https://carnegieendowment.org/2020/08/10/get-ready-for-deepfakes-to-be-used-in-financial-scams-pub-82469](https://carnegieendowment.org/2020/08/10/get-ready-for-deepfakes-to-be-used-in-financial-scams-pub-82469)
 
