@@ -37,7 +37,7 @@ Miller, T. (2022, March 21). _How Deepfake Technology Is Changing The Movie Indu
 
 Panyatham, P. (2022, August 16). _Deepfake Technology in the Entertainment industry: Potential Limitations and Protections_. AMT Lab @ CMU. [https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections](https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections)
 
-Ramussen, M. (2021, September 27). _What's the difference between Virtual Influencers, VTubers, Artificial Intelligence, Avatars, and more?_ [https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars](https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars)
+Ramussen, M. (2021, September 27). _What's the difference between Virtual Influencers, VTubers, Artificial Intelligence, Avatars, and more?_ Virtual Humans. [https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars](https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars)
 
 Shao, G. (2020, January 17). _What “deepfakes” are and how they may be dangerous_. CNBC. 
 
