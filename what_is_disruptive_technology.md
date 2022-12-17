@@ -10,9 +10,9 @@ Disruptive technology are innovations originating from low-end or new-market foo
 
 References:
 
-McKelvey, J. (2020). Good entrepreneurs don't set out to disrupt. Harvard Business Review. https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt
+McKelvey, J. (2020). Good entrepreneurs don't set out to disrupt. Harvard Business Review.[https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt](https://hbr.org/2020/05/good-entrepreneurs-dont-set-out-to-disrupt)
 
-Smith, T. (2022, April 2). Disruptive Technology: Definition, Example, and How to Invest. Investopedia. Retrieved December 17, 2022, from https://www.investopedia.com/terms/d/disruptive-technology.asp
+Smith, T. (2022, April 2). Disruptive Technology: Definition, Example, and How to Invest. Investopedia. Retrieved December 17, 2022, from [https://www.investopedia.com/terms/d/disruptive-technology.asp](https://www.investopedia.com/terms/d/disruptive-technology.asp)
  
-Zaman, R. (2022). Netflix disruptive innovation – renting to streaming. The Waves. https://www.the-waves.org/2022/03/15/netflix-disruptive-innovation-renting-to-streaming/
+Zaman, R. (2022). Netflix disruptive innovation – renting to streaming. The Waves.[https://www.the-waves.org/2022/03/15/netflix-disruptive-innovation-renting-to-streaming/](https://www.the-waves.org/2022/03/15/netflix-disruptive-innovation-renting-to-streaming/)
   
