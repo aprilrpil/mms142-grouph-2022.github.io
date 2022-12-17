@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Philippine Context
+description: By Frances Adelaide Rabara
 ---
 
 ## PHILIPPINE CONTEXT
