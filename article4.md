@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Do Deep Fakes Work?
+description: By Jeneen Antoinette Louise Puda
 ---
 
 ## How do Deep Fakes work?
