@@ -8,6 +8,8 @@ title: How Do Deep Fakes Work?
 Modern knowledge of deepfake as a trend, started in a reddit forum that featured faceswaps of actors in pornographic materials back in late 2017 (Somers, 2020). The word “deepfake” is coined from merging the words “deep learning” and “fake” (Brandon, 2018). Its mainstream original use was applied to public personalities that have many digital image materials available to train in order to develop a fake video or photo overlay of the same person into an existing piece of media product, completely out of context.
 
 <img src="Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair.png">
+###### _How deepfakes are created. (Image source: _
+
 According to Batir (2021), the most basic algorithm used by deep fake AIs is called Deep Autoencoder, which has two components. The first component is the **_encoder_**, which tracks the primary facial structure of the overlay image to identify its fundamental facial feature, allowing the second component, the **_decoder_**, to align the superimposed faces together and reconstruct the original image’s face over the overlay face to make it have the original image’s body.
  
  Despite the recent emergence of deep fake as a technology, its origins actually go back to as early as the 1990s, under the Video Rewrite program which advanced the technology of face recognition and swapping, though quite apparent with its syntheticity.
@@ -52,6 +54,8 @@ Brandon, J. (2018, February 20). Terrifying high-tech porn: Creepy 'deepfake' vi
 Batir, S. (2021,) What is Deepfake? How Deepfakes Work? Deepfakes Explained 2022. YouTube. Retrieved December 15, 2022, from [https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir](https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir)
 
 Christensen, C. M. (n.d.). Disruptive Innovation. In The Encyclopedia of Human-Computer Interaction. Interaction Design Foundation. Retrieved December 15, 2022, from [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation.</a>](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation.</a>)
+
+Javed, A. (2021, February). Creation of a Deepfake using an auto-encoder and decoder. ResearchGate.net. Retrieved December 17. 2022, from [https://www.researchgate.net/figure/Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair_fig2_349703826] (https://www.researchgate.net/figure/Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair_fig2_349703826)
 
 “The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved December 15, 2022, from [https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos](https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos)
 
