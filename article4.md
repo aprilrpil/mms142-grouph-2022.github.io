@@ -39,15 +39,7 @@ Meanwhile, there are also smartphone applications such as FaceApp, Face Swap Liv
 
 This is also the reason why we see many content creators and regular social media users have the chance to operate deepfake technologies. Subsequently, the increase of people that have access to relatively professional tools in the modern age, will create a separate user market that relies heavily on the convenience and subcultural content that deepfake is able to project.
 
-## Disrupted Markets
 
-*[As a contrasting view to the apparent markets that deepfakes disrupt]*
-
-In the case of multimedia producers that have been incorporating deepfakes and slowly integrating it into their whole media production process, deepfakes may appear as a relatively sustaining service that caters towards large production firms, which can simultaneously use manpower and AI-generated deepfakes as a hybrid system. At the fundamental level of using deepfakes, a human operator is still required to train the images of the whole footage.
-
-The current status of a deepfake software’s capacity is still below the finetuning capabilities that actual CGI artists fulfill when post-processing a production. There are obvious details on deepfaked images that would point out its syntheticity as opposed to actual live footage such as overly defined details or unrealistically smooth skins, confusing lighting, flimsy superimposition of facial hair, and disproportionate mouth or lips to the rest of the face. Without a ‘cleaning process’ made by professionals, the experience of watching deepfake would be extremely obvious to those who know how to spot it (“The Biggest Trends in Deepfake…”, 2022). The same goes for voice deepfakes, where some inconsistencies can be heard. In its current form, it simply cannot outperform human skills.
-
-Nevertheless, the growing trend of deepfake usage continues, which means that deepfake technologies will continue to improve as user continue to feed the machine a large array of materials to learn and train from. That is to say that although its present state requires human assistance to be made hyperrealistic, it may, in the future, with the adequate amount of training resources and algorithmic development, completely function autonomously without human intervention.
 
 ### References
 
