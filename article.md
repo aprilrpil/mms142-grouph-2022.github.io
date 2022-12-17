@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Deepfake Technology Has Been Used So Far
-description: By Pamela Mae Parcon & April Rose Pil
+description: By Pamela Mae Parcon, April Rose Pil, & Sasha Gabriel Reyes
 ---
 
 ## How Deepfake Technology Has Been Used So Far
@@ -18,7 +18,16 @@ Moreover, deepfakes could create a new population of malicious users- people wit
 
 Deduced from these examples, we can say deepfake can pose a threat to security to the public – not only to their identity through digital and social media but also their monetary assets in financial institutions can become at risk. This could also disrupt the role of moderators in social media as it has become harder to distinguish which is a real user or a deepfake. In a 2020 article by Vincent, it’s predicted that Facebook will have a hard time moderating deepfakes after a deepfake video of their CEO, Mark Zuckerberg, circulated on Instagram in that same year. Even if it was a form of misinformation, Facebook did not remove it as according to them, it was not violating any of its policies. Clearly, as deepfake is still relatively new, violations it causes are still being identified, while safety policies and guidelines are modified to accommodate these new additions.
 
-### References:
+### Takeaway
+- _Using deepfake for creating malicious content can give people the wrong idea on how to use innovations from the field of AI and machine learning (Buzz Blog Box, 2020)._
+- _The entertainment industry is also negatively impacted by deepfakes. Faces of celebrities are swapped into sexually explicit images or videos – tarnishing their reputation (Buzz Blog Box, 2020)._
+- _Deepfakes are used to create fake contents which can sway a person’s belief towards a specific topic (Buzz Blog Box, 2020)._
+
+
+#### References:
+
+Buzz Blog Box. (2020, February 1). How Deepfake Technology Impact the People in Our Society? Medium. [https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c](https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c)
+
 Ferrier, E. (2022, June 24). The Pros and Cons of Deepfake Technology, Google News gets a redesign, TikTok’s Platform Strategy revealed, and Instagram’s main feed to be revamped. Intelligency Group | Digital Intelligence & Marketing. [https://www.intelligencygroup.com/blog/digital-roundup-24-6-22/](https://www.intelligencygroup.com/blog/digital-roundup-24-6-22/)
 
 Hao, K. (2021, February 16). Deepfake porn is ruining women’s lives. Now the law may finally ban it. MIT Technology Review. [https://www.technologyreview.com/2021/02/12/1018222/deepfake-revenge-porn-coming-ban/](https://www.technologyreview.com/2021/02/12/1018222/deepfake-revenge-porn-coming-ban/)
