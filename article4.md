@@ -8,7 +8,7 @@ title: How Do Deep Fakes Work?
 Modern knowledge of deepfake as a trend, started in a reddit forum that featured faceswaps of actors in pornographic materials back in late 2017 (Somers, 2020). The word “deepfake” is coined from merging the words “deep learning” and “fake” (Brandon, 2018). Its mainstream original use was applied to public personalities that have many digital image materials available to train in order to develop a fake video or photo overlay of the same person into an existing piece of media product, completely out of context.
 
 <img src="Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair.png">
-#####                                 _How deepfakes are created. (Image source: Ali Javed)_
+<sub> _How deepfakes are created. (Image source: Ali Javed)_ </sub>
 
 According to Batir (2021), the most basic algorithm used by deep fake AIs is called Deep Autoencoder, which has two components. The first component is the **_encoder_**, which tracks the primary facial structure of the overlay image to identify its fundamental facial feature, allowing the second component, the **_decoder_**, to align the superimposed faces together and reconstruct the original image’s face over the overlay face to make it have the original image’s body.
  
