@@ -34,24 +34,24 @@ However, deepfakes are more known as visual effects technology used in movies to
 Deepfake is now a proliferated technological service online, it creates an entirely new pool of target consumers. Theoretically, deepfake-generated visual effects take less financial investment and labor resources as opposed to a full audio-visual production. It is, essentially, categorized as disruptive innovation due to its completely new method multimedia generation. Christensen (2015) defines disruptive innovation as a streamline product or service which appeals to divergent consumers from the usual demographical pool. As a disruptor of the sustained film industry, it diminishes the high-cost timebound nature of traditional film sets. Thus, deepfake technology caters to more independent low-budget producers who require audio-visual material that is generated at a faster pace.
 
 ##### References:
-Batir, S. (2021,) What is Deepfake? How Deepfakes Work? Deepfakes Explained 2022. YouTube. [https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir](https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir) 
+Batir, S. (2021,) _What is Deepfake? How Deepfakes Work? Deepfakes Explained 2022_. YouTube. [https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir](https://www.youtube.com/watch?v=AMq5k88QBgY&ab_channel=SeanBatir) 
 
-Brandon, J. (2018, February 20). Terrifying high-tech porn: Creepy 'deepfake' videos are on the rise. Fox News. Retrieved December 15, 2022, from [https://www.foxnews.com/tech/terrifying-high-tech-porn-creepy-deepfake-videos-are-on-the-rise](https://www.foxnews.com/tech/terrifying-high-tech-porn-creepy-deepfake-videos-are-on-the-rise)
+Brandon, J. (2018, February 20). _Terrifying high-tech porn: Creepy 'deepfake' videos are on the rise_. Fox News. Retrieved December 15, 2022, from [https://www.foxnews.com/tech/terrifying-high-tech-porn-creepy-deepfake-videos-are-on-the-rise](https://www.foxnews.com/tech/terrifying-high-tech-porn-creepy-deepfake-videos-are-on-the-rise)
 
-Christensen, C. M. (n.d.). Disruptive Innovation. In The Encyclopedia of Human-Computer Interaction. Interaction Design Foundation. Retrieved December 15, 2022, from [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation. ](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation. )
+Christensen, C. M. (n.d.). Disruptive Innovation. In _The Encyclopedia of Human-Computer Interaction_. Interaction Design Foundation. Retrieved December 15, 2022, from [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation. ](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation. )
 
-Miller, T. (2022, March 21). How Deepfake Technology Is Changing The Movie Industry. Seat42F. [https://seat42f.com/how-deepfake-technology-is-changing-the-movie-industry/](https://seat42f.com/how-deepfake-technology-is-changing-the-movie-industry/)
+Miller, T. (2022, March 21). _How Deepfake Technology Is Changing The Movie Industry_. Seat42F. [https://seat42f.com/how-deepfake-technology-is-changing-the-movie-industry/](https://seat42f.com/how-deepfake-technology-is-changing-the-movie-industry/)
 
-Panyatham, P. (2022, August 16). Deepfake Technology in the Entertainment industry: Potential Limitations and Protections. AMT Lab @ CMU. [https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections](https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections)
+Panyatham, P. (2022, August 16). _Deepfake Technology in the Entertainment industry: Potential Limitations and Protections_. AMT Lab @ CMU. [https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections](https://amt-lab.org/blog/2020/3/deepfake-technology-in-the-entertainment-industry-potential-limitations-and-protections)
 
-Ramussen, M. (2021, September 27). What's the difference between Virtual Influencers, VTubers, Artificial Intelligence, Avatars, and more? [https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars](https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars)
+Ramussen, M. (2021, September 27). _What's the difference between Virtual Influencers, VTubers, Artificial Intelligence, Avatars, and more?_. Virtual Humans. [https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars](https://www.virtualhumans.org/article/whats-the-difference-between-virtual-influencers-vtubers-artificial-intelligence-avatars)
 
 Somers, M. (2020, July 21). Deepfakes, explained. MIT Management Sloan School. [https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained)
 
 
 “The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved December 15, 2022, from [https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos](https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos)
 
-Virtual Humans. (n.d.) Deepfake definition. [https://www.virtualhumans.org/term/deepfake](https://www.virtualhumans.org/term/deepfake)
+Virtual Humans. (n.d.) _Deepfake definition_. [https://www.virtualhumans.org/term/deepfake](https://www.virtualhumans.org/term/deepfake)
 
 ----
 
@@ -110,25 +110,25 @@ Nevertheless, the growing trend of deepfake usage continues, which means that de
 
 ##### References:
 
-Adee, S. (2020). What are deepfakes and how are they created? deepfake technologies: what they are, what they do, and how they’re made. IEEE Spectrum. [https://spectrum.ieee.org/what-is-deepfake](https://spectrum.ieee.org/what-is-deepfake)
+Adee, S. (2020). _What are deepfakes and how are they created? deepfake technologies: what they are, what they do, and how they’re made_. IEEE Spectrum. [https://spectrum.ieee.org/what-is-deepfake](https://spectrum.ieee.org/what-is-deepfake)
 
-Bateman, J. (2020, August 10). Get ready for deepfakes to be used in financial scams. Carnegie Endowment for International Peace. Retrieved from [https://carnegieendowment.org/2020/08/10/get-ready-for-deepfakes-to-be-used-in-financial-scams-pub-82469](https://carnegieendowment.org/2020/08/10/get-ready-for-deepfakes-to-be-used-in-financial-scams-pub-82469)
+Bateman, J. (2020, August 10). _Get ready for deepfakes to be used in financial scams_. Carnegie Endowment for International Peace. Retrieved from [https://carnegieendowment.org/2020/08/10/get-ready-for-deepfakes-to-be-used-in-financial-scams-pub-82469](https://carnegieendowment.org/2020/08/10/get-ready-for-deepfakes-to-be-used-in-financial-scams-pub-82469)
 
-Borak, M. (2020, November 17). Deepfakes, widely used for fake nudes, could disrupt financial markets. South China Morning Post. Retrieved from [https://www.scmp.com/tech/innovation/article/3109565/deepfakes-have-potential-disrupt-financial-markets-not-just-fake](https://www.scmp.com/tech/innovation/article/3109565/deepfakes-have-potential-disrupt-financial-markets-not-just-fake)
+Borak, M. (2020, November 17). _Deepfakes, widely used for fake nudes, could disrupt financial markets_. South China Morning Post. Retrieved from [https://www.scmp.com/tech/innovation/article/3109565/deepfakes-have-potential-disrupt-financial-markets-not-just-fake](https://www.scmp.com/tech/innovation/article/3109565/deepfakes-have-potential-disrupt-financial-markets-not-just-fake)
 
-Brewster, T. (2022, November 9). Fraudsters cloned company director's voice in $35 million bank heist, police find. Forbes. Retrieved from [https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=50c4a4bf7559](https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=50c4a4bf7559)
+Brewster, T. (2022, November 9). _Fraudsters cloned company director's voice in $35 million bank heist, police find_. Forbes. Retrieved from [https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=50c4a4bf7559](https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=50c4a4bf7559)
 
-Buzz Blog Box. (2020, February 1). How Deepfake Technology Impact the People in Our Society? Medium. [https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c](https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c)
+Buzz Blog Box. (2020, February 1). _How Deepfake Technology Impact the People in Our Society?_ Medium. [https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c](https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c)
 
-ING Wholesale Banking. (n.d.). Deepfake: Beware and know the risks. Deepfake: beware of the risk for financial services • ING. Retrieved from [https://www.ingwb.com/en/service/corporate-fraud/deepfake-risks](https://www.ingwb.com/en/service/corporate-fraud/deepfake-risks)
+ING Wholesale Banking. (n.d.). _Deepfake: Beware and know the risks._ Deepfake: beware of the risk for financial services • ING. Retrieved from [https://www.ingwb.com/en/service/corporate-fraud/deepfake-risks](https://www.ingwb.com/en/service/corporate-fraud/deepfake-risks)
 
 Kurup, N. (2022, October 18). Clari5. Retrieved from [https://www.clari5.com/deepfake_frauds_will_banks_be_the_next_stop/](https://www.clari5.com/deepfake_frauds_will_banks_be_the_next_stop/)
 
-Lalla, V., Mitrani, A., & Harned, Z. (2022, June). Artificial Intelligence: Deepfakes in the entertainment industry. WIPO. Retrieved from [https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html ](https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html )
+Lalla, V., Mitrani, A., & Harned, Z. (2022, June). _Artificial Intelligence: Deepfakes in the entertainment industry._ WIPO. Retrieved from [https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html ](https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html )
 
-Philstar Life (2020). Sex video used deepfake technology to make woman look like Maine Mendoza. [https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza](https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza)
+Philstar Life (2020). _Sex video used deepfake technology to make woman look like Maine Mendoza._ [https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza](https://philstarlife.com/geeky/266673-sex-video-deepfake-maine-mendoza)
 
-Shroff, R. (2022). Are deepfakes good for business? Medium. Retrieved from [https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e](https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e)
+Shroff, R. (2022). _Are deepfakes good for business?_ Medium. Retrieved from [https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e](https://medium.com/swlh/are-deepfakes-good-for-business-b811297f5d4e)
 
 
 ----
@@ -142,7 +142,7 @@ Legislation has begun to take shape in the Philippines. On November 16, 2018, Se
 
 ##### References:
 
-Unit, C. S. (n.d.). ACG-CYBER SECURITY BULLETIN NR 189: Understanding of Deepfake Threat Technology. [https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology](https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology)
+Unit, C. S. (n.d.). _ACG-CYBER SECURITY BULLETIN NR 189: Understanding of Deepfake Threat Technology_. [https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology](https://acg.pnp.gov.ph/main/cyber-security-bulletin/337-acg-cyber-security-bulletin-nr-189-understanding-of-deepfake-threat-technology)
 
-Disini & Disini Law Office (2020). Issues in Deepfake Legislation and Regulation. Retrieved from [https://elegal.ph/issues-in-deepfake-legislation-and-regulation/](https://elegal.ph/issues-in-deepfake-legislation-and-regulation/)
+Disini & Disini Law Office (2020). _Issues in Deepfake Legislation and Regulation_. Retrieved from [https://elegal.ph/issues-in-deepfake-legislation-and-regulation/](https://elegal.ph/issues-in-deepfake-legislation-and-regulation/)
 
