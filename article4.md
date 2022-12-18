@@ -49,10 +49,10 @@ Batir, S. (2021,) _What is Deepfake? How Deepfakes Work? Deepfakes Explained 202
 
 Christensen, C. M. (n.d.). Disruptive Innovation. In _The Encyclopedia of Human-Computer Interaction._ Interaction Design Foundation. Retrieved December 15, 2022, from [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation.</a>](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation.</a>)
 
-Javed, A. (2021, February). _Creation of a Deepfake using an auto-encoder and decoder_. ResearchGate.net. Retrieved December 17. 2022, from [https://www.researchgate.net/figure/Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair_fig2_349703826](https://www.researchgate.net/figure/Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair_fig2_349703826)
+Javed, A. (2021, February). _Creation of a Deepfake using an auto-encoder and decoder_. ResearchGate.net. Retrieved December 17, 2022, from [https://www.researchgate.net/figure/Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair_fig2_349703826](https://www.researchgate.net/figure/Creation-of-a-Deepfake-using-an-auto-encoder-and-decoder-The-same-encoder-decoder-pair_fig2_349703826)
 
 “The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved December 15, 2022, from [https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos](https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos)
 
 Sandusky, M. (2021, May 4). _The Best DeepFake Software – How To Make A Deepfake._ Peer Through Media. Retrieved December 16, 2022, from [https://peerthroughmedia.com/deepfake-software-testing/.](https://peerthroughmedia.com/deepfake-software-testing/.)
 
-Somers, M. (2020, July 21). _Deepfakes, explained_. MIT Management Sloan School. [https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.)
+Somers, M. (2020, July 21). _Deepfakes, explained_. MIT Management Sloan School. Retrieved December 17, 2022, from [https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.](https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained.)
