@@ -34,7 +34,7 @@ Deepfakes have allowed movie studios to hire "deepfake actors" to stand in for a
 
 Deepfake has been used to swap the faces of celebrities into obscene images or videos online. This could negatively impat their reputation and brand as a whole (Buzz Blog Box, 2020).
 
-###As a Contrasting View to the Apparent Disrupted Markets
+### As a Contrasting View to the Apparent Disrupted Markets
 
 In the case of multimedia producers that have been incorporating deepfakes and slowly integrating it into their whole media production process, deepfakes may appear as a relatively sustaining service that caters towards large production firms, which can simultaneously use manpower and AI-generated deepfakes as a hybrid system. At the fundamental level of using deepfakes, a human operator is still required to train the images of the whole footage.
 
