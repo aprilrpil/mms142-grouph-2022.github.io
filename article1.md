@@ -52,7 +52,7 @@ Borak, M. (2020, November 17). _Deepfakes, widely used for fake nudes, could dis
 
 Brewster, T. (2022, November 9). _Fraudsters cloned company director's voice in $35 million bank heist, police find._ Forbes. Retrieved from [https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=50c4a4bf7559](https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=50c4a4bf7559)
 
-Buzz Blog Box. (2020, February 1). _How Deepfake Technology Impact the People in Our Society?_ Medium. [https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c](https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c)
+Buzz Blog Box. (2020, February 1). _How Deepfake Technology Impact the People in Our Society?_ Medium. Retrieved from [https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c](https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c)
 
 ING Wholesale Banking. (n.d.). _Deepfake: Beware and know the risks._ Deepfake: beware of the risk for financial services • ING. Retrieved from [https://www.ingwb.com/en/service/corporate-fraud/deepfake-risks](https://www.ingwb.com/en/service/corporate-fraud/deepfake-risks)
 
@@ -60,4 +60,4 @@ Kurup, N. (2022, October 18). Clari5. Retrieved from [https://www.clari5.com/dee
 
 Lalla, V., Mitrani, A., & Harned, Z. (2022, June). _Artificial Intelligence: Deepfakes in the entertainment industry._ WIPO. Retrieved from [https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html](https://www.wipo.int/wipo_magazine/en/2022/02/article_0003.html)
 
-“The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved December 15, 2022, from [https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos](https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos)
+“The Biggest Trends in Deepfake Detection in 2022”. (2022, August 26). Inspired eLearning. Retrieved from [https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos](https://inspiredelearning.com/blog/the-biggest-trends-in-deepfake-detection-in-2022/#:~:text=Deepfakes%20are%20rapidly%20becoming%20a,to%20manipulate%20faces%20in%20videos)
