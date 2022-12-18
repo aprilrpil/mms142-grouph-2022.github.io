@@ -30,7 +30,9 @@ Using deepfake for creating malicious content can give users the wrong idea on h
 
 ### Entertainment Industry
 
-Deepfake has been used to swap the faces of celebrities into obscene images or videos online. This could negatively impact their reputation and brand as a whole (Buzz Blog Box, 2020).
+Deepfakes have allowed movie studios to hire "deepfake actors" to stand in for actual celebrities. This is most impactful when the likeness of a deceased actor is brought back to life on screen but this can also be employed to age or de-age actors. Studios can also use deepfakes to enhance performances and when additional footage or reshoots are necessary. While these cases are definitely a boon to movie productions, the long term benefits to actors is still under debate. For one, the prolifieration of deepfakes may hurt lesser-known actors as it becomes easier to include big name celebrities in film or marketing projects. The careers of deepfake actors themselves may be stifled, their talents not being recognized in their own right. (Lalla, Mitrani, & Harned, 2022)
+
+Deepfake has been used to swap the faces of celebrities into obscene images or videos online. This could negatively impat their reputation and brand as a whole (Buzz Blog Box, 2020).
 
 ###As a Contrasting View to the Apparent Disrupted Markets
 
