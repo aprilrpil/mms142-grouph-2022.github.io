@@ -43,16 +43,16 @@ The topic chosen is Deepfake or technology that can alter visages.
 The following are it's members:
 
 1. Parcon, Pamela Mae
-2.  Pascual, Alexander
+2. Pascual, Alexander *[Dropped course]*
 3. Pavillar, Jeffrey
 4. Perez, Jose Claro Miguel
-5. Picar, Ray-Anne Janoah
+5. Picar, Ray-Anne Janoah *[Filed LOA]*
 6. Pil, April Rose
-7. Pineda, Maria Elisa
+7. Pineda, Maria Elisa *[No response/contribution]*
 8. Ponciano, Niezl Marian
 9. Portugal, Iñigo
 10. Puda, Jeneen Antoinette Louise
 11. Rabara, Frances Adelaide
-12. Ramos, Cesar, III
+12. Ramos, Cesar, III *[No response/contribution]*
 13. Recto, Bea Phoemela
 14. Reyes, Sasha Gabriel
