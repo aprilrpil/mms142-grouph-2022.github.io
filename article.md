@@ -29,7 +29,7 @@ Deduced from these examples, we can say deepfake can pose a threat to security t
 
 Buzz Blog Box. (2020, February 1). _How Deepfake Technology Impact the People in Our Society?_ Medium. Retrieved from [https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c](https://becominghuman.ai/how-deepfake-technology-impact-the-people-in-our-society-e071df4ffc5c)
 
-Ferrier, E. (2022, June 24). _The Pros and Cons of Deepfake Technology, Google News gets a redesign, TikTok’s Platform Strategy revealed, and Instagram’s main feed to be revamped_. Intelligency Group | Digital Intelligence & Marketing. Retrieved from [https://www.intelligencygroup.com/blog/digital-roundup-24-6-22/](https://www.intelligencygroup.com/blog/digital-roundup-24-6-22/)
+Ferrier, E. (2022, June 24). _The Pros and Cons of Deepfake Technology, Google News gets a redesign, TikTok’s Platform Strategy revealed, and Instagram’s main feed to be revamped_. Intelligency Group \| Digital Intelligence & Marketing. Retrieved from [https://www.intelligencygroup.com/blog/digital-roundup-24-6-22/](https://www.intelligencygroup.com/blog/digital-roundup-24-6-22/)
 
 Hao, K. (2021, February 16). _Deepfake porn is ruining women’s lives. Now the law may finally ban it_. MIT Technology Review. Retrieved from [https://www.technologyreview.com/2021/02/12/1018222/deepfake-revenge-porn-coming-ban/](https://www.technologyreview.com/2021/02/12/1018222/deepfake-revenge-porn-coming-ban/)
 
